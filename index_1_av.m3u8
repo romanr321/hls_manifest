@@ -4,7 +4,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-CUE-OUT:20.000
+#EXT-X-CUE-OUT:40.000
 #EXT-X-CUE-IN
 #EXTINF:10.000,
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment1_1_av.ts
@@ -18,7 +18,7 @@ https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_4
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment5_1_av.ts
 #EXTINF:10.000,
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment6_1_av.ts
-#EXT-X-CUE-OUT:30.000
+#EXT-X-CUE-OUT:40.000
 #EXT-X-CUE-IN
 #EXTINF:10.000,
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment7_1_av.ts
@@ -32,7 +32,7 @@ https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_4
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment11_1_av.ts
 #EXTINF:10.000,
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment12_1_av.ts
-#EXT-X-CUE-OUT:30.000
+#EXT-X-CUE-OUT:40.000
 #EXT-X-CUE-IN
 #EXTINF:10.000,
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment13_1_av.ts
@@ -172,7 +172,7 @@ https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_4
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment80_1_av.ts
 #EXTINF:10.000,
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment81_1_av.ts
-#EXT-X-CUE-OUT:30.000
+#EXT-X-CUE-OUT:40.000
 #EXT-X-CUE-IN
 #EXTINF:10.000,
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment82_1_av.ts
@@ -190,6 +190,6 @@ https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_4
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment88_1_av.ts
 #EXTINF:8.042,
 https://multiplatform-f.akamaihd.net/i/multi/april11/sintel/sintel-hd_,512x288_450_b,640x360_700_b,768x432_1000_b,1024x576_1400_m,.mp4.csmil/segment89_1_av.ts
-#EXT-X-CUE-OUT:30.000
+#EXT-X-CUE-OUT:40.000
 #EXT-X-CUE-IN
 #EXT-X-ENDLIST
