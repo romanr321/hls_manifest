@@ -14,7 +14,7 @@
             "ssps": [
                 {
                     "rank": 1,
-                    "url": "https://pubads.g.doubleclick.net/gampad/ads?sz=${SZ}&iu=${KV_iu}&ciu_szs=${KV_ciu_szs}&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=${KVE_cust_params}&correlator=${KV_correlator}&scor=${SESSION_ID}&prof=${KV_prof}&csid=${KV_csid}&caid=${KV_caid}"
+                    "url": "https://pubads.g.doubleclick.net/gampad/ads?sz=${SZ}&iu=${KV_iu}&ciu_szs=${KV_ciu_szs}&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=${KVE_cust_params}&correlator=${CB}&scor=${SESSION_ID}&prof=${KV_prof}&csid=${KV_csid}&caid=${KV_caid}"
                 }
             ]
         }
