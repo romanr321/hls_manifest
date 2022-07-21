@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-CUE-OUT:40.000
+#EXT-X-CUE-IN
 #EXTINF:10, no desc
 https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence0.ts
 #EXTINF:10, no desc
@@ -14,6 +16,8 @@ https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence
 #EXTINF:10, no desc
 https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence5.ts
 #EXTINF:10, no desc
+#EXT-X-CUE-OUT:40.000
+#EXT-X-CUE-IN
 https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence6.ts
 #EXTINF:10, no desc
 https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence7.ts
@@ -28,6 +32,8 @@ https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence
 #EXTINF:10, no desc
 https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence12.ts
 #EXTINF:10, no desc
+#EXT-X-CUE-OUT:40.000
+#EXT-X-CUE-IN
 https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence13.ts
 #EXTINF:10, no desc
 https://devimages.apple.com.edgekey.net/iphone/samples/bipbop/gear1/fileSequence14.ts
